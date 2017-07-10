@@ -1,0 +1,14 @@
+====== atributos ======
+Created lunes 10 julio 2017
+
+HTML Attributes
+All HTML elements can have attributes
+Attributes provide additional information about an element
+Attributes are always specified in the start tag
+Attributes usually come in name/value pairs like: name="value"
+
+Atributos HTML
+Todos los elementos HTML pueden tener atributos
+Los atributos proporcionan información adicional acerca de un elemento
+Los atributos siempre se especifican en la etiqueta de inicio
+Los atributos generalmente vienen en pares nombre / valor como: name = "value"

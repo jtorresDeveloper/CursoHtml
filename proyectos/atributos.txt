@@ -1,14 +1,59 @@
 ====== atributos ======
 Created lunes 10 julio 2017
 
-HTML Attributes
-All HTML elements can have attributes
-Attributes provide additional information about an element
-Attributes are always specified in the start tag
-Attributes usually come in name/value pairs like: name="value"
+**HTML Attributes**
+**All HTML elements can have attributes**
+**Attributes provide additional information about an element**
+**Attributes are always specified in the start tag**
+**Attributes usually come in name/value pairs like: name="value"**
 
-Atributos HTML
-Todos los elementos HTML pueden tener atributos
-Los atributos proporcionan información adicional acerca de un elemento
-Los atributos siempre se especifican en la etiqueta de inicio
-Los atributos generalmente vienen en pares nombre / valor como: name = "value"
+//Atributos HTML//
+//Todos los elementos HTML pueden tener atributos//
+//Los atributos proporcionan información adicional acerca de un elemento//
+//Los atributos siempre se especifican en la etiqueta de inicio//
+//Los atributos generalmente vienen en pares nombre / valor como: name = "value"//
+
+**The lang Attribute**
+**The language of the document can be declared in the <html> tag.**
+
+**The language is declared with the lang attribute.**
+
+**Declaring a language is important for accessibility applications (screen readers) and search engines:**
+
+El atributo lang
+El idioma del documento se puede declarar en la etiqueta <html>.
+
+El lenguaje se declara con el atributo lang.
+
+Declarar un idioma es importante para las aplicaciones de accesibilidad (lectores de pantalla) y los motores de búsqueda:
+
+**The title Attribute**
+**Here, a title attribute is added to the <p> element. The value of the title attribute will be displayed as a tooltip when you mouse over the paragraph:**
+
+El título Atributo
+Aquí, un atributo de título se añade al elemento <p>. El valor del atributo de título se mostrará como una información de herramientas al pasar el mouse sobre el párrafo:
+
+**The href Attribute**
+**HTML links are defined with the <a> tag. The link address is specified in the href attribute:**
+
+El atributo href
+Los enlaces HTML se definen con la etiqueta <a>. La dirección de enlace se especifica en el atributo href:
+
+**Size Attributes**
+**HTML images are defined with the <img> tag.**
+
+**The filename of the source (src), and the size of the image (width and height) are all provided as attributes:**
+
+Atributos de tamaño
+Las imágenes HTML se definen con la etiqueta <img>.
+
+El nombre de archivo del origen (src) y el tamaño de la imagen (ancho y alto) se proporcionan como atributos:
+
+The alt attribute specifies an alternative text to be used, when an image cannot be displayed.
+
+The value of the attribute can be read by screen readers. This way, someone "listening" to the webpage, e.g. a blind person, can "hear" the element.
+
+El atributo alt especifica un texto alternativo que se utilizará cuando no se pueda mostrar una imagen.
+
+El lector de pantalla puede leer el valor del atributo. De esta manera, alguien "escuchando" la página web, p. Una persona ciega, puede "escuchar" el elemento.
+

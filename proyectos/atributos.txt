@@ -49,11 +49,20 @@ Las imágenes HTML se definen con la etiqueta <img>.
 
 El nombre de archivo del origen (src) y el tamaño de la imagen (ancho y alto) se proporcionan como atributos:
 
-The alt attribute specifies an alternative text to be used, when an image cannot be displayed.
+**The alt attribute specifies an alternative text to be used, when an image cannot be displayed.**
 
-The value of the attribute can be read by screen readers. This way, someone "listening" to the webpage, e.g. a blind person, can "hear" the element.
+**The value of the attribute can be read by screen readers. This way, someone "listening" to the webpage, e.g. a blind person, can "hear" the element.**
 
 El atributo alt especifica un texto alternativo que se utilizará cuando no se pueda mostrar una imagen.
 
 El lector de pantalla puede leer el valor del atributo. De esta manera, alguien "escuchando" la página web, p. Una persona ciega, puede "escuchar" el elemento.
 
+**We Suggest: Quote Attribute Values**
+**The HTML5 standard does not require quotes around attribute values.**
+
+**The href attribute, demonstrated above, can be written as:**
+
+Sugerimos: Valores de los atributos de cotización
+El estándar HTML5 no requiere comillas alrededor de valores de atributo.
+
+El atributo href, demostrado anteriormente, puede escribirse como:

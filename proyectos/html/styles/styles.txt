@@ -1,0 +1,42 @@
+====== styles ======
+Created miércoles 12 julio 2017
+
+**The HTML Style Attribute**
+**Setting the style of an HTML element, can be done with the style attribute.**
+
+**The HTML style attribute has the following syntax:**
+
+El atributo de estilo HTML
+Establecer el estilo de un elemento HTML, se puede hacer con el atributo de estilo.
+
+El atributo de estilo HTML tiene la siguiente sintaxis:
+
+**HTML Background Color**
+**The background-color property defines the background color for an HTML element.**
+
+**This example sets the background color for a page to powderblue:**
+
+**Color de fondo HTML**
+**La propiedad background-color define el color de fondo para un elemento HTML.**
+
+Este ejemplo establece el color de fondo de una página en powderblue:
+
+**HTML Fonts**
+**The font-family property defines the font to be used for an HTML element:**
+
+Fuentes HTML
+La propiedad font-family define la fuente a utilizar para un elemento HTML:
+
+**HTML Text Size**
+**The font-size property defines the text size for an HTML element:**
+
+Tamaño del texto HTML
+La propiedad font-size define el tamaño de texto para un elemento HTML:
+
+**HTML Text Alignment**
+**The text-align property defines the horizontal text alignment for an HTML element:**
+
+Alineación de texto HTML
+La propiedad text-align define la alineación horizontal del texto para un elemento HTML:
+
+

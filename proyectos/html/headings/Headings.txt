@@ -1,0 +1,12 @@
+====== Headings ======
+Created miércoles 12 julio 2017
+
+**HTML Headings**
+**Headings are defined with the <h1> to <h6> tags.**
+
+**<h1> defines the most important heading. <h6> defines the least important heading.**
+
+Encabezados HTML
+Los encabezados se definen con las etiquetas <h1> a <h6>.
+
+<H1> define el encabezado más importante. <H6> define el encabezado menos importante.

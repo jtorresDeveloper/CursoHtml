@@ -54,3 +54,33 @@ El elemento HTML <i> define el texto en cursiva, sin ninguna importancia extra.
 **The HTML <em> element defines emphasized text, with added semantic importance.**
 
 El elemento HTML <em> define el texto enfatizado, con una importancia semántica añadida.
+
+**HTML <small> Element**
+**The HTML <small> element defines smaller text:**
+
+HTML <small> Elemento
+El elemento HTML <small> define un texto más pequeño:
+
+**HTML <mark> Element**
+**The HTML <mark> element defines marked or highlighted text:**
+
+Elemento HTML <mark>
+El elemento HTML <mark> define el texto marcado o resaltado:
+
+**HTML <del> Element**
+**The HTML <del> element defines deleted (removed) text**
+
+Elemento HTML <del>
+El elemento HTML <del> define el texto eliminado (eliminado)
+
+**HTML <ins> Element**
+**The HTML <ins> element defines inserted (added) text.**
+
+Elemento HTML <ins>
+El elemento HTML <ins> define el texto insertado (añadido).
+
+**HTML <sub> Element**
+**The HTML <sub> element defines subscripted text.**
+
+Elemento HTML <sup>
+El elemento HTML <sup> define el texto superíndice.

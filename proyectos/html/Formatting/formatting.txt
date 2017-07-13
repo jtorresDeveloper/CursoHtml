@@ -1,0 +1,56 @@
+**formatting**
+**Created jueves 13 julio 2017**
+
+**HTML Formatting Elements**
+**In the previous chapter, you learned about the HTML style attribute.**
+
+**HTML also defines special elements for defining text with a special meaning.**
+
+**HTML uses elements like <b> and <i> for formatting output, like bold or italic text.**
+
+**Formatting elements were designed to display special types of text:**
+
+**<b> - Bold text**
+**<strong> - Important text**
+**<i> - Italic text**
+**<em> - Emphasized text**
+**<mark> - Marked text**
+**<small> - Small text**
+**<del> - Deleted text**
+**<ins> - Inserted text**
+**<sub> - Subscript text**
+**<sup> - Superscript text**
+
+Elementos de formato HTML
+En el capítulo anterior, aprendió sobre el atributo de estilo HTML.
+
+HTML también define elementos especiales para definir texto con un significado especial.
+
+HTML utiliza elementos como <b> y <i> para dar formato a la salida, como texto en negrita o en cursiva.
+
+Los elementos de formato fueron diseñados para mostrar tipos especiales de texto:
+
+<B> - Texto en negrita
+<Strong> - Texto importante
+<I> - Texto en cursiva
+<Em> - Texto enfatizado
+<Mark> - Texto marcado
+<Small> - Texto pequeño
+<Del> - Texto eliminado
+<Ins> - Texto insertado
+<Sub> - Texto de subíndice
+<Sup> - Texto superíndice
+
+**The HTML <strong> element defines strong text, with added semantic "strong" importance.**
+
+El elemento HTML <strong> define el texto fuerte, con una mayor importancia semántica "fuerte".
+
+**HTML <i> and <em> Elements**
+**The HTML <i> element defines italic text, without any extra importance.**
+
+Elementos HTML <i> y <em>
+El elemento HTML <i> define el texto en cursiva, sin ninguna importancia extra.
+
+**The HTML <em> element defines emphasized text, with added semantic importance.**
+
+El elemento HTML <em> define el texto enfatizado, con una importancia semántica añadida.

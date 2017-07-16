@@ -1,0 +1,33 @@
+====== Quatoations ======
+Created sábado 15 julio 2017
+
+**HTML Quotation and Citation Elements**
+
+**HTML <q> for Short Quotations**
+**The HTML <q> element defines a short quotation.**
+
+**Browsers usually insert quotation marks around the <q> element.**
+
+HTML <q> para citas cortas
+El elemento HTML <q> define una cita corta.
+
+Los navegadores usualmente insertan comillas alrededor del elemento <q>.
+
+**HTML <blockquote> for Quotations**
+**The HTML <blockquote> element defines a section that is quoted from another source.**
+
+HTML <blockquote> para citas
+El elemento HTML <blockquote> define una sección que se cita de otra fuente.
+
+Los navegadores suelen sangrar elementos <blockquote>.
+
+**HTML <abbr> for Abbreviations**
+**The HTML <abbr> element defines an abbreviation or an acronym.**
+
+**Marking abbreviations can give useful information to browsers, translation systems and search-engines.**
+
+HTML <abbr> para abreviaturas
+El elemento HTML <abbr> define una abreviatura o un acrónimo.
+
+Marcando abreviaturas puede dar información útil a los navegadores, sistemas de traducción y motores de búsqueda.
+

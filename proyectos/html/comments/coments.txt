@@ -1,0 +1,17 @@
+====== coments ======
+Created sábado 15 julio 2017
+
+HTML Comments
+
+**Comment tags are used to insert comments in the HTML source code.**
+
+Las etiquetas de comentario se utilizan para insertar comentarios en el código fuente HTML.
+
+**HTML Comment Tags**
+**You can add comments to your HTML source by using the following syntax:**
+
+Puede agregar comentarios a su origen HTML utilizando la siguiente sintaxis:
+
+<!-- Write your comments here →
+
+<! - Escriba sus comentarios aquí ->

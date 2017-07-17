@@ -1,0 +1,57 @@
+====== HTML Links ======
+Created lunes 17 julio 2017
+
+**HTML Links**
+**Links are found in nearly all web pages. Links allow users to click their way from page to page.**
+
+Los enlaces se encuentran en casi todas las páginas web. Los enlaces permiten a los usuarios hacer clic en su camino de una página a otra.
+
+**HTML Links - Hyperlinks**
+**HTML links are hyperlinks.**
+
+**You can click on a link and jump to another document.**
+
+**When you move the mouse over a link, the mouse arrow will turn into a little hand.**
+
+Enlaces HTML - Hipervínculos
+Los enlaces HTML son hipervínculos.
+
+Puede hacer clic en un enlace y saltar a otro documento.
+
+Cuando mueves el mouse sobre un enlace, la flecha del ratón se convertirá en una pequeña mano.
+
+**HTML Links - Syntax**
+**In HTML, links are defined with the <a> tag:**
+
+**<a href="url">link text</a>**
+
+.HTML Links - Sintaxis
+En HTML, los enlaces se definen con la etiqueta <a>:
+
+<a href="url"> texto del enlace </a>
+
+**Local Links**
+**The example above used an absolute URL (A full web address).**
+
+**A local link (link to the same web site) is specified with a relative URL (without http://www....).**
+
+Enlaces Locales
+El ejemplo anterior utiliza una URL absoluta (una dirección web completa).
+
+Un enlace local (enlace al mismo sitio web) se especifica con una URL relativa (sin http: // www ....).
+
+HTML Link Colors
+By default, a link will appear like this (in all browsers):
+
+An unvisited link is underlined and blue
+A visited link is underlined and purple
+An active link is underlined and red
+You can change the default colors, by using styles:
+
+Colores del enlace HTML
+De forma predeterminada, un enlace aparecerá de esta forma (en todos los navegadores):
+
+Un enlace no visitado está subrayado y azul
+Un enlace visitado está subrayado y púrpura
+Un enlace activo está subrayado y rojo
+Puede cambiar los colores predeterminados mediante estilos:

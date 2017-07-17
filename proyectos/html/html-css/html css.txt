@@ -1,0 +1,103 @@
+====== html css ======
+Created sábado 15 julio 2017
+
+**HTML Styles - CSS**
+
+**Styling HTML with CSS**
+**CSS stands for Cascading Style Sheets.**
+
+**CSS describes how HTML elements are to be displayed on screen, paper, or in other media.**
+
+**CSS saves a lot of work. It can control the layout of multiple web pages all at once.**
+
+**CSS can be added to HTML elements in 3 ways:**
+
+**Inline - by using the style attribute in HTML elements**
+**Internal - by using a <style> element in the <head> section**
+**External - by using an external CSS file**
+**The most common way to add CSS, is to keep the styles in separate CSS files. However, here we will use inline and internal styling, because this is easier to demonstrate, and easier for you to try it yourself.**
+
+Diseño HTML con CSS
+CSS significa hojas de estilo en cascada.
+
+CSS describe cómo se muestran los elementos HTML en la pantalla, en el papel o en otros medios.
+
+CSS ahorra mucho trabajo. Puede controlar el diseño de varias páginas web a la vez.
+
+CSS se puede agregar a elementos HTML de 3 maneras:
+
+Inline - mediante el atributo style en elementos HTML
+Interno - mediante el uso de un elemento <style> en la sección <head>
+Externo - mediante el uso de un archivo CSS externo
+La forma más común de agregar CSS, es mantener los estilos en archivos CSS separados. Sin embargo, aquí vamos a utilizar en línea y el estilo interno, porque esto es más fácil de demostrar, y más fácil para usted para probarlo usted mismo.
+
+**Inline CSS**
+**An inline CSS is used to apply a unique style to a single HTML element.**
+
+**An inline CSS uses the style attribute of an HTML element.**
+
+**This example sets the text color of the <h1> element to blue:**
+
+CSS en línea
+Un CSS en línea se utiliza para aplicar un estilo único a un único elemento HTML.
+
+Un CSS en línea utiliza el atributo de estilo de un elemento HTML.
+
+Este ejemplo establece el color de texto del elemento <h1> en azul:
+
+**Internal CSS**
+**An internal CSS is used to define a style for a single HTML page.**
+
+**An internal CSS is defined in the <head> section of an HTML page, within a <style> element:**
+
+CSS interno
+Un CSS interno se utiliza para definir un estilo para una sola página HTML.
+
+Un CSS interno se define en la sección <head> de una página HTML dentro de un elemento <style>:
+
+**External CSS**
+**An external style sheet is used to define the style for many HTML pages.**
+
+**With an external style sheet, you can change the look of an entire web site, by changing one file!**
+
+**To use an external style sheet, add a link to it in the <head> section of the HTML page:**
+
+CSS externo
+Se utiliza una hoja de estilo externa para definir el estilo de muchas páginas HTML.
+
+Con una hoja de estilo externa, puede cambiar el aspecto de un sitio web completo, cambiando un archivo!
+
+Para utilizar una hoja de estilo externa, agregue un vínculo a la misma en la sección <head> de la página HTML:
+
+**CSS Fonts**
+**The CSS color property defines the text color to be used.**
+
+**The CSS font-family property defines the font to be used.**
+
+**The CSS font-size property defines the text size to be used.**
+
+Fuentes CSS
+La propiedad de color CSS define el color del texto que se va a utilizar.
+
+La propiedad font-family CSS define la fuente que se va a utilizar.
+
+La propiedad CSS font-size define el tamaño del texto a utilizar.
+
+**CSS Border**
+**The CSS border property defines a border around an HTML element:**
+
+Frontera de CSS
+La propiedad de borde CSS define un borde alrededor de un elemento HTML:
+
+**CSS Padding**
+**The CSS padding property defines a padding (space) between the text and the border:**
+
+CSS relleno
+La propiedad de relleno CSS define un relleno (espacio) entre el texto y el borde:
+
+**CSS Margin**
+**The CSS margin property defines a margin (space) outside the border:**
+
+Margen CSS
+La propiedad de margen CSS define un margen (espacio) fuera del borde:
+
